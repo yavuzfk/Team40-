@@ -1,4 +1,4 @@
-# Team40-
+# Team40
 
 ## Takım Elemanları
 
