@@ -21,7 +21,7 @@
 - Kendi bölümünden vb. arkadaş bulma
 - İşine yarayabilecek insanları gösteren ekran (ilan tahtası) öneriler
 - Kayıt ekranı: Kullanıcının isim, mail, tel. no vb. bilgileri girebildiği 
-- Aranan adres-konum bilgileri alınmalı (özelleştirme ekranı) arayan or kiralayan
+- Özelleştirme ekranı: Aranan adres-konum bilgileri alınabildiği, arayan vaya kiralayan için
 
 # Hedef Kitle
 
