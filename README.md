@@ -19,10 +19,17 @@
 
 - Yurt, pansiyon bulma hizmeti
 - Kendi bölümünden vb. arkadaş bulma
+- İşine yarayabilecek insanları gösteren ekran (ilan tahtası) öneriler
+- Kayıt ekranı: Kullanıcının isim, mail, tel. no vb. bilgileri girebildiği 
+- Aranan adres-konum bilgileri alınmalı (özelleştirme ekranı) arayan or kiralayan
 
-Hedef Kitle
+# Hedef Kitle
 
-- Üniversite öğrencileri
+- Okulu yeni kazanmış yerli/yabancı öğrenciler
+- Aktif olarak öğrenim görüp ev değiştirmek isteyen öğrenciler
+- Odasını-evini öğrenciye kiraya vermek isteyenler
+- Kısa-uzun dönem konaklamak isteyen öğrenciler
+
 
 
 
