@@ -101,15 +101,16 @@ Office houra katılım sağlanarak raporlama konusunda sorular iletilmiş ve cev
 ![image](https://user-images.githubusercontent.com/104431485/167295151-53574b9c-7660-4c71-a868-c6bc25862dc2.png)
         
 - Ürün Durumu:
+- Proje değişimi yaşandığı için şu an bir ürün görüntüsü bulunmamakta.
 
-•	Proje değişimi yaşandığı için şu an bir ürün görüntüsü bulunmamakta.
-Sprint Retrospective:
-•	Takım içerisinde bazı çekimser konulardan dolayı karar aşamalarında bazı sorunlar yaşandığı tespit edilmiş ve daha hızlı karar alınması amacıyla bazı kararların bilinçli üyeler tarafından alınıp diğer üyelerin takip etmesi üzerine karar alınmıştır.
-•	Başta seçilen projenin uygun olmayacağına karar verilmiş ve yeni proje seçilerek daha uygun bir yol izlenmesi ve uygun görev atamaları yapılmıştır.
-•	Daily scrumlara daha fazla önem verilmesi ve günlük gelişmelerin kaydedilmesine karar verilmiştir.
-•	1.Scrumdaki iş yükünü gelecek scrumlarda kapatılmasına karar verilmiştir.
-Diğer Notlar:
-•	N/A 
+- Sprint Retrospective:
+Takım içerisinde bazı çekimser konulardan dolayı karar aşamalarında bazı sorunlar yaşandığı tespit edilmiş ve daha hızlı karar alınması amacıyla bazı kararların bilinçli üyeler tarafından alınıp diğer üyelerin takip etmesi üzerine karar alınmıştır.
+Başta seçilen projenin uygun olmayacağına karar verilmiş ve yeni proje seçilerek daha uygun bir yol izlenmesi ve uygun görev atamaları yapılmıştır.
+Daily scrumlara daha fazla önem verilmesi ve günlük gelişmelerin kaydedilmesine karar verilmiştir.
+1.Scrumdaki iş yükünü gelecek scrumlarda kapatılmasına karar verilmiştir.
+
+- Diğer Notlar:
+N/A 
 
 
 
