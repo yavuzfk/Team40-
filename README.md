@@ -104,10 +104,10 @@ Office houra katılım sağlanarak raporlama konusunda sorular iletilmiş ve cev
 - Proje değişimi yaşandığı için şu an bir ürün görüntüsü bulunmamakta.
 
 - Sprint Retrospective:
-Takım içerisinde bazı çekimser konulardan dolayı karar aşamalarında bazı sorunlar yaşandığı tespit edilmiş ve daha hızlı karar alınması amacıyla bazı kararların bilinçli üyeler tarafından alınıp diğer üyelerin takip etmesi üzerine karar alınmıştır.
-Başta seçilen projenin uygun olmayacağına karar verilmiş ve yeni proje seçilerek daha uygun bir yol izlenmesi ve uygun görev atamaları yapılmıştır.
-Daily scrumlara daha fazla önem verilmesi ve günlük gelişmelerin kaydedilmesine karar verilmiştir.
-1.Scrumdaki iş yükünü gelecek scrumlarda kapatılmasına karar verilmiştir.
+' Takım içerisinde bazı çekimser konulardan dolayı karar aşamalarında bazı sorunlar yaşandığı tespit edilmiş ve daha hızlı karar alınması amacıyla bazı kararların bilinçli üyeler tarafından alınıp diğer üyelerin takip etmesi üzerine karar alınmıştır.
+' Başta seçilen projenin uygun olmayacağına karar verilmiş ve yeni proje seçilerek daha uygun bir yol izlenmesi ve uygun görev atamaları yapılmıştır.
+' Daily scrumlara daha fazla önem verilmesi ve günlük gelişmelerin kaydedilmesine karar verilmiştir.
+' 1.Scrumdaki iş yükünü gelecek scrumlarda kapatılmasına karar verilmiştir.
 
 - Diğer Notlar:
 N/A 
