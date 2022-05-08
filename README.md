@@ -13,7 +13,7 @@
 
 # Ürün Açıklaması
 
-- Üniversite ye giden öğrenciler için ev arkadaşı ve ev bulacaklari uygulama: okuyacaği yeri belirtip, sigara alkol kullanimina, kira oranina vb bakilarak öğrencileri eşleştirip ucuza kafa dengi konaklama imkani saglayacak app.
+- Üniversite'ye giden öğrenciler için ev arkadaşı ve ev bulacaklari uygulama: okuyacaği yeri belirtip tercihlerine ve kira oranina bakılarak öğrencileri eşleştirip ucuza kafa dengi konaklama imkani saglayacak aplikasyon.
 
 # Ürün Özellikleri
 
@@ -39,7 +39,7 @@
  
 ![image](https://user-images.githubusercontent.com/104431485/167294986-bc8f820e-0849-417e-b9dd-0681b295ce43.png)
 
-- Sprint notları: Toplantı sonrasında Github reposu oluşturulmuş ve tüm ekip dahil edilmiştir. Discord üzerinde fikirlerin paylaşılması için bir proje fikir kanalı oluşturulmuş ve fikirler paylaşılmıştır.    
+- Sprint notları: Toplantı sonrasında Github reposu oluşturuldu ve tüm ekip dahil edildi. Discord üzerinde fikirlerin paylaşılması için bir proje fikir kanalı oluşturuldu ve fikirler paylaşıldı.    
 
 ![image](https://user-images.githubusercontent.com/104431485/167294989-3cb71d0b-1df0-45ab-8fa2-7fdc81ca26bf.png)
 ![image](https://user-images.githubusercontent.com/104431485/167294991-e3b3ffb9-2620-44e6-9a6b-0ed53949fbb7.png)
