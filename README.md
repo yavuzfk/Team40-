@@ -74,7 +74,8 @@ Proje hedefleri arasından tercih yapılmış ve yaşam hedefi uygulaması üzer
   
  
 30.04.2022
-Katılımcılar: Mert, Buse, Yavuz
+
+- Katılımcılar: Mert, Buse, Yavuz
 İskelet oluşturma için çalışmalar başlamış ve hedeflenen sayfa sayısına bağlı olarak Githubta düzenlemeler yapılması görevi oluşturulmuştur. Takım asistanından herhangi bir mesaj alınmamış ve akademi duyurusu doğrultusunda kendisine mesaj atılmıştır.
 
 ![image](https://user-images.githubusercontent.com/104431485/167295106-6708da86-21bb-4ebe-90ac-ce3f4d5da8ee.png)
