@@ -94,7 +94,7 @@ Office houra katılım sağlanarak raporlama konusunda sorular iletilmiş ve cev
 - ![image](https://user-images.githubusercontent.com/104431485/167295148-5f58c95b-74f4-4bb5-be7f-d6f1fb48f9c8.png)
 - ![image](https://user-images.githubusercontent.com/104431485/167295151-53574b9c-7660-4c71-a868-c6bc25862dc2.png)
         
-Ürün Durumu:
+- Ürün Durumu:
 •	Proje değişimi yaşandığı için şu an bir ürün görüntüsü bulunmamakta.
 Sprint Retrospective:
 •	Takım içerisinde bazı çekimser konulardan dolayı karar aşamalarında bazı sorunlar yaşandığı tespit edilmiş ve daha hızlı karar alınması amacıyla bazı kararların bilinçli üyeler tarafından alınıp diğer üyelerin takip etmesi üzerine karar alınmıştır.
