@@ -104,6 +104,8 @@ Office houra katılım sağlanarak raporlama konusunda sorular iletilmiş ve cev
 - Ürün Durumu:
 - Proje değişimi yaşandığı için şu an bir ürün görüntüsü bulunmamakta.
 
+- Sprint Rewiev: Alınan kararlar: Örnek arayüzler ve sonrasında sorun çıkabileceği düşünülen veritabanı sistemi için firebase'in uyguluğuna yönelik veriler toplanacak ve discord üzerinden yapılan konuşmalarında veya discord üzerinde uygun bir kanalda diğer ekip üyeleri ile paylaşılması gerekli görülmüştür. İlk kararlaştırılan hedef takip uygulamasında yapılan araştırmalar sonrasında mevcut süre içerisinde tamamlanamayacağı düşünülerek başka bir projeye geçilmesi hedeflenmiştir. Kararlaştırılan proje öğrenci konaklama uygulaması olup aynı araştırmalar sonrası uygun bir ekip çalışması ile tamamlanabileceği kararlaştırılmıştır. Gelecek sprintte yazılım aşamasında hızlı ilerlemeler kaydederek programın yakalanması ve sonrasında eklenebilecek ekstra özellikler düşünülerek uygun olması halinde eklenmesi belirtilmiştir. Sprint Review katılımcıları: Mert, Yavuz, İzgi, Buse
+
 - Sprint Retrospective:
 Takım içerisinde bazı çekimser konulardan dolayı karar aşamalarında bazı sorunlar yaşandığı tespit edilmiş ve daha hızlı karar alınması amacıyla bazı kararların bilinçli üyeler tarafından alınıp diğer üyelerin takip etmesi üzerine karar alınmıştır.
 Başta seçilen projenin uygun olmayacağına karar verilmiş ve yeni proje seçilerek daha uygun bir yol izlenmesi ve uygun görev atamaları yapılmıştır.
