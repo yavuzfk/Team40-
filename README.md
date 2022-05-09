@@ -51,7 +51,7 @@
 
 ![image](https://user-images.githubusercontent.com/104431485/167295035-2f07d1a1-fbcb-4d38-8022-bcba3c07cfc2.png)
 
-
+#Trello linki: https://trello.com/invite/b/VtQxbxBM/3c5ff60988490a0d08a4d2a29fdf9bf0/proje-fikri
 - Daily Scrum:
 Daily Scrumların discord ve whatsapp üzerinden yapılmasına karar verilmiştir. Daily scrumlar için jpeg ekran görüntüsü ve word olarak Readme'de paylaşılmaktadır.
 
