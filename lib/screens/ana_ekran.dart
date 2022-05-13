@@ -11,14 +11,18 @@ class AnaEkran extends StatelessWidget {
         title: const Text('Ana Ekran'),
       ),
       body: Center(
-        child: ElevatedButton(
-          child: const Text('Giris Ekrani'),
-          onPressed: () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => const GirisEkrani()),
-            );
-          },
+        child: Column(
+          children: [
+            ElevatedButton(
+              child: const Text('Giris Ekrani'),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const GirisEkrani()),
+                );
+              },
+            ),
+          ],
         ),
       ),
     );
