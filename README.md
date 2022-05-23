@@ -116,7 +116,84 @@ Daily scrumlara daha fazla önem verilmesi ve günlük gelişmelerin kaydedilmes
 N/A 
 
 
+# Sprint 2
 
+- Sprint Notları: Yeni belirlenen projenin yazılımına başlanmış ve ara yüzler oluşturulup githuba eklenmiştir. 
+11.05.2022
+![image](https://user-images.githubusercontent.com/104431485/169727735-f2ea9979-fc98-476f-88fc-01f4c0502578.png)
+![image](https://user-images.githubusercontent.com/104431485/169727757-9bd79e81-0a56-4847-ac47-0f620729eb8d.png)
+ 
+- Sprint içinde tamamlanması tahmin edilen puan: 200 puan
+Puan tamamlama mantığı: Toplamda tamamlanması gereken 600 puanlık backlog bulunmaktadır. Önceki sprintte ürün üzerine bir işlem yapılmadığından kalan 3 sprintte üç eşit parçaya bölünmüştür ve 200 puanın tamamlanması gerekmektedir.
+
+- Backlog: Discord üzerinden yapılan toplantılar sonucunda basit bir tema üzerinde konuşulmuş ve uyguluma içerisinde karşılaşılacak ekranların tasarımlarına başlanmıştır. Ekibin uygun gördüğü bir görev dağılımı yapılmış ve sonradan gelecek özelliklere uygun tasarımlara önem verilmiştir. Bunun için Trello üzerindeki şemada gerekli eklemeler yapılmış ve sorular cevaplanmıştır.
+![image](https://user-images.githubusercontent.com/104431485/169727703-c8834dc7-2a56-48b4-a5b3-92ea66c67c6b.png)
+![image](https://user-images.githubusercontent.com/104431485/169727710-f3fa41d1-502d-405b-865e-a366be804203.png)
+
+
+   
+- Sprint Board Update: 
+ 
+- Daily Scrum: Daily Scrumlarımız Discord üzerinden yazılı ve sesli, whatsapp üzerinden de yazılı olarak bu sprintte de devam etmiştir. Daily Scrumlarda konuşmalar Read Me’de tarafımızdan açıklanmış ve görseller paylaşılmıştır.
+![image](https://user-images.githubusercontent.com/104431485/169727653-17099ea3-e32f-4a18-a82e-be1cec00acc0.png)
+
+
+13.05.2022
+
+- Projenin yazılım kısmına başlandı, ürün sahibi tarafından githuba kod şablonu eklendi ve ekibin kodları cihaza indirip rahatça geliştirmesi sağlandı. Böylece yapılan hataların görülmesi kolaylaştırıldı.
+![image](https://user-images.githubusercontent.com/104431485/169727623-7164a6ef-2287-4199-ade4-6b10c64673e4.png)
+  
+ 
+14.05.2021
+- Katılımcılar: Yavuz Furkan Karabıyık ve Mert Tetik, özelleştirme ekranının yapılması için discor üzerinden kanalda çalışmalar yapıldı.
+![image](https://user-images.githubusercontent.com/104431485/169727590-21d47606-0c1c-4a52-a627-b5ecc6ce66d3.png)
+![image](https://user-images.githubusercontent.com/104431485/169727600-7135393b-c3f5-4a52-a6ef-6e06ff68b392.png)
+
+
+                           
+15.05.2021
+
+- Katılımcılar: Buse Akyüz, Asel İzgi Karavar, Mert Tetik ve Yavuz Furkan Karabıyık. Ekibin ortak bir tema üzerinden ilerlemesi için konuşmalar yapıldı ve ilerlemeler belirlenen tema üzerinden kaydedilmesi tüm ekip üyelerine iletildi.
+![image](https://user-images.githubusercontent.com/104431485/169727576-aa4da96b-e9de-4b6c-885a-424c8dd28c2d.png)
+
+ 
+17.05.2021
+
+- Katılımcılar: Buse Akyüz. Kayıt ekranına yapımına başlanması.
+18.05.2021
+
+- Katılımcılar: Mert Tetik ve Yavuz Furkan Karabıyık. Ayarlar ekranına başlanması. Ayarlar ekranında kullanılacak özellikler tam belirlenmediği için sonrasında tamamlanmak üzere sadece görsel olarak bırakıldı.
+![image](https://user-images.githubusercontent.com/104431485/169727548-a0bc8562-672a-4f49-b60c-f000013e2ef4.png)
+![image](https://user-images.githubusercontent.com/104431485/169727562-c701a122-59de-474f-8bbb-abd02c75aa5f.png)
+
+
+         
+20.05.2021
+
+- Katılımcılar: Buse Akyüz, Asel İzgi Karavar, Mert Tetik ve Yavuz Furkan Karabıyık. Kayıt ekranının tamamlanıp Githuba eklenmesi ve projenin ilerleyişi ile ilgili genel sohbet.
+ ![image](https://user-images.githubusercontent.com/104431485/169727533-77625a3d-65c4-4480-bcfc-cf5d902047c2.png)
+
+ 
+ 21.05.2022
+ 
+- Katılımcılar: Mert Tetik. Ayarlar ekranına menü üzerinden görünüme yönelik eklemeler.
+
+![image](https://user-images.githubusercontent.com/104431485/169727483-a4febde6-6af9-4b51-aff7-f295e479dc37.png)
+![image](https://user-images.githubusercontent.com/104431485/169727508-f3d5d895-2860-4897-ba3d-8217674f4187.png)
+
+ - Ürün Durumu: 
+ - Projenin arayüzlerinin çoğunluğu hazır durumda, daily scrumlarda ürünle ilgili görseller bulunmakta.
+ 
+ - Sprint Retrospective:
+ - Ayarlar menüsünde içerik netleşmediği için tamamlanamamıştır, bazı özellikler ve görsel bir tema oluşturulmuştur önümüzdeki hafta netleştirilmesi kararlaştırılmıştır.
+ - Giriş ekranını tamamlanamamıştır en kısa zamanda tamamlanarak sonraki adıma geçilmesi kararlaştırılmıştır
+ - Ekibin sınav ve ders yoğunluğundan kaynaklı zaman yönetiminde bazı sorunlar yaşanmış ve istenen hedefe tam olarak ulaşılamamıştır son sprintte aynı sorunun yaşanmaması adına bir ekip çalışma planı oluşturulması kararı alınmıştır.
+ 
+ - Sprint Review:
+ - Tamamlanan veya az kalmış görevler treelo üzerinde güncellenmiştir. Önümüzdeki süreçte eklenecek widetlar ve firebase için bir plan oluşturulmuş ve trelloya eklenmiştir. Çıkarılacak olan ekip çalışma planının Scrum Master tarafından oluşturulup takip etmesi ve projenin yeterli süreç içerisinde tamamlanması kararı alınmıştır.
+
+- Diğer Notlar:
+- N/A
 
 
 
