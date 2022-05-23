@@ -120,6 +120,7 @@ N/A
 
 - Sprint Notları: Yeni belirlenen projenin yazılımına başlanmış ve ara yüzler oluşturulup githuba eklenmiştir. 
 11.05.2022
+
 ![image](https://user-images.githubusercontent.com/104431485/169727735-f2ea9979-fc98-476f-88fc-01f4c0502578.png)
 ![image](https://user-images.githubusercontent.com/104431485/169727757-9bd79e81-0a56-4847-ac47-0f620729eb8d.png)
  
@@ -127,6 +128,7 @@ N/A
 Puan tamamlama mantığı: Toplamda tamamlanması gereken 600 puanlık backlog bulunmaktadır. Önceki sprintte ürün üzerine bir işlem yapılmadığından kalan 3 sprintte üç eşit parçaya bölünmüştür ve 200 puanın tamamlanması gerekmektedir.
 
 - Backlog: Discord üzerinden yapılan toplantılar sonucunda basit bir tema üzerinde konuşulmuş ve uyguluma içerisinde karşılaşılacak ekranların tasarımlarına başlanmıştır. Ekibin uygun gördüğü bir görev dağılımı yapılmış ve sonradan gelecek özelliklere uygun tasarımlara önem verilmiştir. Bunun için Trello üzerindeki şemada gerekli eklemeler yapılmış ve sorular cevaplanmıştır.
+
 ![image](https://user-images.githubusercontent.com/104431485/169727703-c8834dc7-2a56-48b4-a5b3-92ea66c67c6b.png)
 ![image](https://user-images.githubusercontent.com/104431485/169727710-f3fa41d1-502d-405b-865e-a366be804203.png)
 
@@ -135,17 +137,20 @@ Puan tamamlama mantığı: Toplamda tamamlanması gereken 600 puanlık backlog b
 - Sprint Board Update: 
  
 - Daily Scrum: Daily Scrumlarımız Discord üzerinden yazılı ve sesli, whatsapp üzerinden de yazılı olarak bu sprintte de devam etmiştir. Daily Scrumlarda konuşmalar Read Me’de tarafımızdan açıklanmış ve görseller paylaşılmıştır.
+
 ![image](https://user-images.githubusercontent.com/104431485/169727653-17099ea3-e32f-4a18-a82e-be1cec00acc0.png)
 
 
 13.05.2022
 
 - Projenin yazılım kısmına başlandı, ürün sahibi tarafından githuba kod şablonu eklendi ve ekibin kodları cihaza indirip rahatça geliştirmesi sağlandı. Böylece yapılan hataların görülmesi kolaylaştırıldı.
+
 ![image](https://user-images.githubusercontent.com/104431485/169727623-7164a6ef-2287-4199-ade4-6b10c64673e4.png)
   
  
 14.05.2021
 - Katılımcılar: Yavuz Furkan Karabıyık ve Mert Tetik, özelleştirme ekranının yapılması için discor üzerinden kanalda çalışmalar yapıldı.
+
 ![image](https://user-images.githubusercontent.com/104431485/169727590-21d47606-0c1c-4a52-a627-b5ecc6ce66d3.png)
 ![image](https://user-images.githubusercontent.com/104431485/169727600-7135393b-c3f5-4a52-a6ef-6e06ff68b392.png)
 
@@ -154,6 +159,7 @@ Puan tamamlama mantığı: Toplamda tamamlanması gereken 600 puanlık backlog b
 15.05.2021
 
 - Katılımcılar: Buse Akyüz, Asel İzgi Karavar, Mert Tetik ve Yavuz Furkan Karabıyık. Ekibin ortak bir tema üzerinden ilerlemesi için konuşmalar yapıldı ve ilerlemeler belirlenen tema üzerinden kaydedilmesi tüm ekip üyelerine iletildi.
+
 ![image](https://user-images.githubusercontent.com/104431485/169727576-aa4da96b-e9de-4b6c-885a-424c8dd28c2d.png)
 
  
@@ -163,6 +169,7 @@ Puan tamamlama mantığı: Toplamda tamamlanması gereken 600 puanlık backlog b
 18.05.2021
 
 - Katılımcılar: Mert Tetik ve Yavuz Furkan Karabıyık. Ayarlar ekranına başlanması. Ayarlar ekranında kullanılacak özellikler tam belirlenmediği için sonrasında tamamlanmak üzere sadece görsel olarak bırakıldı.
+
 ![image](https://user-images.githubusercontent.com/104431485/169727548-a0bc8562-672a-4f49-b60c-f000013e2ef4.png)
 ![image](https://user-images.githubusercontent.com/104431485/169727562-c701a122-59de-474f-8bbb-abd02c75aa5f.png)
 
@@ -171,6 +178,7 @@ Puan tamamlama mantığı: Toplamda tamamlanması gereken 600 puanlık backlog b
 20.05.2021
 
 - Katılımcılar: Buse Akyüz, Asel İzgi Karavar, Mert Tetik ve Yavuz Furkan Karabıyık. Kayıt ekranının tamamlanıp Githuba eklenmesi ve projenin ilerleyişi ile ilgili genel sohbet.
+
  ![image](https://user-images.githubusercontent.com/104431485/169727533-77625a3d-65c4-4480-bcfc-cf5d902047c2.png)
 
  
