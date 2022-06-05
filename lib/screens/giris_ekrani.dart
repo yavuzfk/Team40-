@@ -70,7 +70,7 @@ class _GirisEkraniState extends State<GirisEkrani> {
                   onPressed: () {
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => const KayitEkrani()),
+                      MaterialPageRoute(builder: (context) => const OzellestirmeSayfasi()),
                     );
                   },
                 ),
