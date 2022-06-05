@@ -69,19 +69,28 @@ class _KayitEkraniState extends State<KayitEkrani> {
               width: double.infinity,
               child: Padding(
                 padding: const EdgeInsets.all(12.0),
-                child: Center(
-                  child: Text(
-                    'Kayıt Ol',
-                    style: TextStyle(
-                        color: Colors.white,
-                        fontWeight: FontWeight.bold,
-                        fontSize: 18.0),
+                child: ElevatedButton(
+                  child: Center(
+                    child: Text(
+                      'Kayıt Ol',
+                      style: TextStyle(
+                          color: Colors.white,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 18.0),
+                    ),
                   ),
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => const OzellestirmeSayfasi()),
+                    );
+                  },
                 ),
+
               ),
-              decoration: BoxDecoration(
+            /*  decoration: BoxDecoration(
                   color: Colors.black87,
-                  borderRadius: BorderRadius.circular(10.0)),
+                  borderRadius: BorderRadius.circular(10.0)),*/
             ),
           ),
         ]),
