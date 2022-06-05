@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:room_mate/screens/ana_ekran.dart';
+import 'package:room_mate/screens/kesif_ekrani.dart';
 
 void main() {
   runApp(const OzellestirmeSayfasi());
@@ -116,7 +117,7 @@ class OzellestirmeSayfasi extends StatelessWidget {
                           Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => const AnaEkran()),
+                                builder: (context) => const KesifEkrani()),
                           );
                         },
                       ),

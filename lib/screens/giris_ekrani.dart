@@ -24,6 +24,23 @@ class _GirisEkraniState extends State<GirisEkrani> {
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(children: [
+          SizedBox(
+            height: 50.0,
+          ),
+          Text(
+            'ROOM - MATE',
+            style: TextStyle(
+                height: 1,
+                fontSize: 45,
+              foreground: Paint()
+                ..style = PaintingStyle.stroke
+                ..strokeWidth = 6
+                ..color = Colors.blue[700]!,
+            ),
+          ),
+          SizedBox(
+            height: 70.0,
+          ),
           TextField(
             controller: emailController,
             decoration: InputDecoration(
@@ -55,26 +72,49 @@ class _GirisEkraniState extends State<GirisEkrani> {
             onTap: register,
             child: Container(
               width: double.infinity,
-              child: Padding(
-                padding: const EdgeInsets.all(12.0),
-                child: ElevatedButton(
-                  child: Center(
-                    child: Text(
-                      'Giriş Yap',
-                      style: TextStyle(
-                          color: Colors.white,
-                          fontWeight: FontWeight.bold,
-                          fontSize: 18.0),
-                    ),
-                  ),
-                  onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => const OzellestirmeSayfasi()),
-                    );
-                  },
-                ),
+              child: Column(
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.all(12.0),),
 
+                  ElevatedButton(
+                      child: Center(
+                        child: Text(
+                          'Giriş Yap',
+                          style: TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 18.0),
+                        ),
+                      ),
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const OzellestirmeSayfasi()),
+                        );
+                      },
+                    ),
+                  Center(child: Text("VEYA")),
+                  ElevatedButton(
+                      child: Center(
+                        child: Text(
+                          'Kayıt Ol',
+                          style: TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                              fontSize: 18.0),
+                        ),
+                      ),
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const KayitEkrani()),
+                        );
+                      },
+                    ),
+
+                  
+                ],
               ),
               /*  decoration: BoxDecoration(
                   color: Colors.black87,

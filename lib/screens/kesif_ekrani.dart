@@ -23,15 +23,22 @@ class _KesifEkraniState extends State<KesifEkrani> {
                   height: 32.0,
                 ),
                 Text(
-                  'Ankara',
+                  '**Ankara** ',
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 32.0,
                   ),
                 ),
                 Text(
-                  'Yakınlarda 84 kullanıcı bulundu.',
+                  'Yakınlarda *match size* kullanıcı bulundu.',
                   style: TextStyle(),
+                ),
+                SizedBox(height: 10.0,),
+                Text(
+                  '// BU SAYFADA SADECe ARAYÜZ TASARLANMIŞTIR',
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
                 SizedBox(height: 16.0),
                 Row(
