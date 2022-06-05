@@ -16,120 +16,116 @@ class OzellestirmeSayfasi extends StatelessWidget {
       // ),
       home: Scaffold(
         appBar: AppBar(
+          backgroundColor: Colors.black87,
           title: const Text(
             'Özelleştirme Ekranı',
           ),
         ),
-        body: Column(
+        body: Container(
+        child: ListView(
           children: <Widget>[
-            Spacer(),
-            Text(
-              'Seni daha yakından tanıyalım',
-              style: TextStyle(height: 1, fontSize: 20),
-            ),
             SizedBox(
               height: 20.0,
             ),
             Center(
-              child: Card(
-                elevation: 0,
-                color: Colors.lightBlue[100],
-                child: Padding(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 50, vertical: 0),
-                  child: SizedBox(
-                    width: 250,
-                    height: 100,
-                    child: Center(child: UniversityNameList()),
-                  ),
-                ),
+              child: Text(
+                'Seni daha yakından tanıyalım',
+                style: TextStyle(height: 1, fontSize: 20),
               ),
             ),
-            Center(
-              child: Card(
-                elevation: 0,
-                color: Colors.lightBlue[100],
-                child: Padding(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 50, vertical: 0),
-                  child: SizedBox(
-                    width: 250,
-                    height: 100,
-                    child: Center(child: MeasureList()),
-                  ),
-                ),
-              ),
+            SizedBox(
+              height: 20.0,
             ),
-            Center(
-              child: Card(
-                elevation: 0,
-                color: Colors.lightBlue[100],
-                child: Padding(
-                  padding:
+
+                Center(
+                  child: Card(
+                    elevation: 8,
+                    shadowColor: Colors.green,
+                    color: Colors.blueGrey[80],
+                    child: Padding(
+                      padding:
                       const EdgeInsets.symmetric(horizontal: 50, vertical: 0),
-                  child: SizedBox(
-                    width: 250,
-                    height: 100,
-                    child: Center(
-                      child: TextFormField(
-                          keyboardType: TextInputType
-                              .text, // Use email input type for emails.
-                          decoration: new InputDecoration(
-                            hintText: 'Üniversitenin Adı...',
-                            labelText: 'Kazandığın Üniversite',
-                          )),
+                      child: SizedBox(
+                        width: 250,
+                        height: 100,
+                        child: Center(
+                          child: TextFormField(
+                              keyboardType: TextInputType
+                                  .text, // Use email input type for emails.
+                              decoration: new InputDecoration(
+                                hintText: 'Taşınacağın Yaşayacağın Şehir',
+                                labelText: 'Şehrin Adı',
+                              )),
+                        ),
+                      ),
                     ),
                   ),
                 ),
-              ),
-            ),
-            Center(
-              child: Card(
-                elevation: 0,
-                color: Colors.lightBlue[100],
-                child: Padding(
-                  padding:
+                Center(
+                  child: Card(
+                    elevation: 8,
+                    shadowColor: Colors.green,
+                    color: Colors.blueGrey[80],
+                    child: Padding(
+                      padding:
                       const EdgeInsets.symmetric(horizontal: 50, vertical: 0),
-                  child: SizedBox(
-                    width: 250,
-                    height: 100,
-                    child: Center(child: Text('Filled Card')),
+                      child: SizedBox(
+                        width: 250,
+                        height: 100,
+                        child: Center(child: UniversityNameList()),
+                      ),
+                    ),
                   ),
                 ),
-              ),
-            ),
-            SizedBox(
-              height: 20.0,
-            ),
-            Center(
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  ElevatedButton(
-                    onPressed: () {
-                      Navigator.pop(context);
-                    },
-                    child: const Text('Geri Dön!'),
+                Center(
+                  child: Card(
+                    elevation: 8,
+                    shadowColor: Colors.green,
+                    color: Colors.blueGrey[80],
+                    child: Padding(
+                      padding:
+                      const EdgeInsets.symmetric(horizontal: 50, vertical: 0),
+                      child: SizedBox(
+                        width: 250,
+                        height: 100,
+                        child: Center(child: MeasureList()),
+                      ),
+                    ),
                   ),
-                  SizedBox(
-                    width: 26.0,
+                ),
+                SizedBox(
+                  height: 20.0,
+                ),
+                Center(
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children: [
+                      ElevatedButton(
+                        onPressed: () {
+                          Navigator.pop(context);
+                        },
+                        child: const Text('Geri Dön'),
+                      ),
+                      SizedBox(
+                        width: 26.0,
+                      ),
+                      ElevatedButton(
+                        child: const Text('Kaydet'),
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => const AnaEkran()),
+                          );
+                        },
+                      ),
+                    ],
                   ),
-                  ElevatedButton(
-                    child: const Text('Ana Ekran'),
-                    onPressed: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                            builder: (context) => const AnaEkran()),
-                      );
-                    },
-                  ),
-                ],
-              ),
-            ),
-            Spacer(),
+                ),
+                Spacer(),
           ],
+        ),
         ),
       ),
     );
