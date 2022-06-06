@@ -115,8 +115,16 @@ Daily scrumlara daha fazla önem verilmesi ve günlük gelişmelerin kaydedilmes
 - Diğer Notlar:
 N/A 
 
+# Sprint 3:
 
+- Ürün durumu:
+- Giriş ekranı, kayıt olma ve özelleştrime ekranı tamamlandı uygulama kısmen hazır bir şekil aldı.
+- 
 
+![98fefbd9-6f97-4480-9610-519d5b11c71d](https://user-images.githubusercontent.com/104431485/172248394-84a72920-8e0b-4b19-8530-260ac9cede68.jpg)
+![991f00b2-e0aa-4b52-b6a4-9e2c777c4205](https://user-images.githubusercontent.com/104431485/172248404-2d3f12ef-a840-4720-b8b2-c9aaf59a0805.jpg)
+![27be6608-e1fa-447a-8a23-57de76f0aed8](https://user-i![fc95843a-a77c-4c45-bd46-9eb5547e8ffa](https://user-images.githubusercontent.com/104431485/172248436-c4d0ecf4-66aa-4885-903b-4e7e40d26c85.jpg)
+mages.githubusercontent.com/104431485/172248428-ec159655-c7a1-446c-aec4-28e649e68eca.jpg)
 
 
 
