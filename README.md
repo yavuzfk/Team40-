@@ -116,6 +116,10 @@ Daily scrumlara daha fazla önem verilmesi ve günlük gelişmelerin kaydedilmes
 N/A 
 
 # Sprint 3:
+- Sprint içinde tamamlanması tahmin edilen puan: 400 puan
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. Şu ana kadar 200 puanlık kısmı tamamlanabilmişti dolayısıyla kalan 400 puanlık kısmın tamamlanarak projenin yetiştirilmesi gerekmektedir.
+
+- Backlog: Kayıt ekranı,giriş ekranı ve özelleştirme ekranı tamamlanmış ve geçişlerin tamamlanması sağlanmalıdır. Ana ekran ve ilanların gözüktüğü çalışan bir uygulama konması gerekmektedir.
 
 - Ürün durumu:
 - Giriş ekranı, kayıt olma ve özelleştrime ekranı tamamlandı uygulama kısmen hazır bir şekil aldı.
