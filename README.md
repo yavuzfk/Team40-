@@ -128,3 +128,5 @@ N/A
 
 ![27be6608-e1fa-447a-8a23-57de76f0aed8](https://user-images.githubusercontent.com/104431485/172248511-b42a141b-3945-4037-8e6d-d60ec3b6b846.jpg)
 
+- Sprint Retrospective:
+- Ekip üyelerinin final haftası ve yooğunluğundan dolayı iletişim sağlanamadı haftasonu çalışma yapılarak proje tamamlanmaya çalışıldı ve tamamlanan kısımlar githuba eklendi.
